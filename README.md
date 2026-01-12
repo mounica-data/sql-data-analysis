@@ -1,2 +1,2 @@
 # sql-data-analysis
-This is student titel 1 project
+This is student title 1 schools project
